@@ -3,3 +3,6 @@
 *.o
 *.a
 *.so
+*.pdb
+*.obj
+*.ilk
